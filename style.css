@@ -62,8 +62,8 @@ body {
 }
 
 #author {
-	position: fixed;
-	margin-left: 30px;
+	/*position: fixed;*/
+	margin-left: 20px;
 	font-family: "Andale Mono";
 	font-style: italic;
 	text-decoration: none;
